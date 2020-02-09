@@ -7,22 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-* **University of Wisconsin – Madison**, Madison, WI, USA
-  * Department of Geography, Department of Electrical & Computer Engineering<br>
+* **University of Wisconsin – Madison**, Madison, WI, USA<br>
+  Department of Geography, Department of Electrical & Computer Engineering<br>
   * **Doctor of Philosophy** in Geography / Geographic Information Science, 202x<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Doctoral Minor** in Electrical Engineering / Machine Learning<br>
   * **Master of Science** in Electrical Engineering / Machine Learning, 2019<br>
   * **Research**: Machine learning and computer vision for geospatial image recognition with applications in disaster resilience<br>
   * **Advisor**: Prof. [Qunying Huang](https://geography.wisc.edu/profile.php?p=111)
 
-* **University of Chinese Academy of Sciences**, Beijing, China
-  * Institute of Remote Sensing & Digital Earth, Chinese Academy of Sciences
+* **University of Chinese Academy of Sciences**, Beijing, China<br>
+  Institute of Remote Sensing & Digital Earth, Chinese Academy of Sciences
   * **Master of Science** in Geographic Information Systems / Remote Sensing, 2017
   * **Thesis**: Real-time Causal Progressive Hyperspectral Anomaly Detection based on Cholesky Decomposition
   * **Advisor**: Prof. [Qingxi Tong](http://hylab.radi.ac.cn/esite/a/Staff/Academician/2015/1206/359.html), Prof. [Lifu Zhang](http://hylab.radi.ac.cn/esite/a/Staff/Professor/2017/0531/360.html)
 
-* **Wuhan University**, Wuhan, China
-  * School of Remote Sensing and Information Engineering
+* **Wuhan University**, Wuhan, China<br>
+  School of Remote Sensing and Information Engineering
   * **Bachelor of Engineering** in Remote Sensing, 2014
   * **Thesis**: Target Positioning based on Multi-view Imaging of Feature Points
   * **Advisor**: Prof. Bin Pan

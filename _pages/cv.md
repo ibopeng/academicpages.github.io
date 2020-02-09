@@ -12,7 +12,7 @@ redirect_from:
 Also available as a [pdf](/files/cv_bpeng.pdf). (last updated January 2020)
 
 # <center>BO PENG</center>
-<center>bo [dot] peng [at] wisc [dot] edu &nbsp; | &nbsp; <a href="https://bopeng.space">https://bopeng.space</a> &nbsp; | &nbsp; Madison, WI 53706</center>
+<center>bo dot peng at wisc dot edu &nbsp; | &nbsp; <a href="https://bopeng.space">https://bopeng.space</a> &nbsp; | &nbsp; Madison, WI 53706</center><br>&nbsp;
 
 # Education
 * **University of Wisconsin – Madison**, Madison, WI
