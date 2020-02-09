@@ -1,4 +1,7 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~> 2.0.1'
+gem 'rspec'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -10,6 +13,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+
+gem 'tzinfo-data', platforms: [:x64_mingw, :mingw, :mswin]
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
