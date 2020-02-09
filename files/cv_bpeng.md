@@ -1,26 +1,17 @@
----
-layout: archive
-title: "Curriculum Vitae (CV)"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /cv
----
-
-{% include base_path %}
-
-Also available as a [pdf](/files/cv_bpeng.pdf). (last updated January 2020)
-
 # <center>BO PENG</center>
-<center>bo [dot] peng [at] wisc [dot] edu &nbsp; | &nbsp; <a href="https://bopeng.space">https://bopeng.space</a> &nbsp; | &nbsp; Madison, WI 53706</center>
+<center>bo.peng@wisc.edu &nbsp; | &nbsp; <a href="https://bopeng.space">https://bopeng.space</a> &nbsp; | &nbsp; Madison, WI 53706, USA</center>
 
 # Education
 * **University of Wisconsin – Madison**, Madison, WI
   * **Ph.D.** Geography / Geographic Information Science, 202x
     * **Doctoral Minor** Electrical Engineering / Machine Learning
   * **M.Sc.** Electrical Engineering / Machine Learning, 2019
+  * **Research**: machine learning and computer vision for geospatial image recognition with applications in disaster resilience
+  * **Advisor**: Prof. [Qunying Huang](https://geography.wisc.edu/profile.php?p=111)
 * **University of Chinese Academy of Sciences**, Beijing, China
   * **M.Sc.** Geographic Information Systems, 2017
+  * **Thesis**: Real-time Causal Progressive Hyperspectral Anomaly Detection based on Cholesky Decomposition
+  * **Advisor**: Prof. [Qingxi Tong](http://hylab.radi.ac.cn/esite/a/Staff/Academician/2015/1206/359.html), Prof. [Lifu Zhang](http://hylab.radi.ac.cn/esite/a/Staff/Professor/2017/0531/360.html)
 * **Wuhan University**, Wuhan, China
   * **B.Eng.** Remote Sensing, 2014
 
