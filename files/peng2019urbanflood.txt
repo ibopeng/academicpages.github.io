@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3356471.3365235,
+author = {Peng, Bo and Liu, Xinyi and Meng, Zonglin and Huang, Qunying},
+title = {Urban Flood Mapping with Residual Patch Similarity Learning},
+year = {2019},
+isbn = {9781450369572},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3356471.3365235},
+doi = {10.1145/3356471.3365235},
+booktitle = {Proceedings of the 3rd ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery},
+pages = {40–47},
+numpages = {8},
+keywords = {Flood mapping, flood extent estimation, deep learning, patch similarity, residual learning},
+location = {Chicago, IL, USA},
+series = {GeoAI 2019}
+}
+  

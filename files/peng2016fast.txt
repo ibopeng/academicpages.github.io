@@ -1,0 +1,10 @@
+@inproceedings{peng2016fast,
+title={Fast real-time target detection via target-oriented band selection},
+author={Peng, Bo and Zhang, Lifu and Wu, Taixia and Zhang, Hongming},
+booktitle={2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
+pages={5868--5871},
+year={2016},
+doi={10.1109/IGARSS.2016.7730533},
+ISSN={2153-7003},
+organization={IEEE}
+}

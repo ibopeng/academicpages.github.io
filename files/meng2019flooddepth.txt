@@ -1,0 +1,16 @@
+@inproceedings{10.1145/3356395.3365542,
+author = {Meng, Zonglin and Peng, Bo and Huang, Qunying},
+title = {Flood Depth Estimation from Web Images},
+year = {2019},
+isbn = {9781450369541},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3356395.3365542},
+doi = {10.1145/3356395.3365542},
+booktitle = {Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Advances on Resilient and Intelligent Cities},
+pages = {37–40},
+numpages = {4},
+keywords = {Resilient, Mask R-CNN, Detection, Flood depth},
+location = {Chicago, IL, USA},
+series = {ARIC’19}
+}

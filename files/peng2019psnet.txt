@@ -1,0 +1,12 @@
+@article{peng2019psnet,
+author = {Peng, Bo and Meng, Zonglin and Huang, Qunying and Wang, Caixia},
+doi = {10.3390/rs11212492},
+journal = {Remote Sensing},
+month = {oct},
+number = {21},
+pages = {2492},
+title = {{Patch Similarity Convolutional Neural Network for Urban Flood Extent Mapping Using Bi-Temporal Satellite Multispectral Imagery}},
+url = {https://www.mdpi.com/2072-4292/11/21/2492},
+volume = {11},
+year = {2019}
+}

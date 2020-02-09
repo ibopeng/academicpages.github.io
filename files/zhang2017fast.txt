@@ -1,0 +1,12 @@
+@article{zhang2017fast,
+title={Fast real-time causal linewise progressive hyperspectral anomaly detection via cholesky decomposition},
+author={Zhang, Lifu and Peng, Bo and Zhang, Feizhou and Wang, Lizhe and Zhang, Hongming and Zhang, Peng and Tong, Qingxi},
+journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+volume={10},
+number={10},
+pages={4614--4629},
+year={2017},
+publisher={IEEE}，
+doi={10.1109/JSTARS.2017.2725382},
+ISSN={2151-1535}
+}

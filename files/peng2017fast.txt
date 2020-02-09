@@ -1,0 +1,11 @@
+@article{peng2017fast,
+title={Real-time sample-wise hyperspectral anomaly detection algorithm using Cholesky decomposition},
+author={Peng, Bo and Zhang, Lifu and Zhang, Peng and Deng, Xianming and Cen, Yi},
+journal={Journal of Remote sensing},
+volume={21},
+number={5},
+pages={739},
+year={2017},
+publisher={China Science Publishing}，
+doi={10.11834/jrs.20176447}
+}
