@@ -3,13 +3,13 @@
 
 # Education
 * **University of Wisconsin – Madison**, Madison, WI
-  * **Ph.D.** Geography / Geographic Information Science, 202x
+  * **Ph.D.** Geography / Remote Sensing & Geographic Information Science, 202x
     * **Doctoral Minor** Electrical Engineering / Machine Learning
   * **M.Sc.** Electrical Engineering / Machine Learning, 2019
   * **Research**: machine learning and computer vision for geospatial image recognition with applications in disaster resilience
   * **Advisor**: Prof. [Qunying Huang](https://geography.wisc.edu/profile.php?p=111)
 * **University of Chinese Academy of Sciences**, Beijing, China
-  * **M.Sc.** Geographic Information Systems, 2017
+  * **M.Sc.** Geographic Information Systems / Remote Sensing, 2017
   * **Thesis**: Real-time Causal Progressive Hyperspectral Anomaly Detection based on Cholesky Decomposition
   * **Advisor**: Prof. [Qingxi Tong](http://hylab.radi.ac.cn/esite/a/Staff/Academician/2015/1206/359.html), Prof. [Lifu Zhang](http://hylab.radi.ac.cn/esite/a/Staff/Professor/2017/0531/360.html)
 * **Wuhan University**, Wuhan, China

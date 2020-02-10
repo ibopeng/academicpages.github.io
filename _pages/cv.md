@@ -13,11 +13,11 @@ Also available as a [pdf](/files/cv_bpeng.pdf). (last updated January 2020)
 
 # Education
 * **University of Wisconsin – Madison**, Madison, WI
-  * **Ph.D.** Geography / Geographic Information Science, 202x
+  * **Ph.D.** Geography / Remote Sensing & Geographic Information Science, 202x
     * **Doctoral Minor** Electrical Engineering / Machine Learning
   * **M.Sc.** Electrical Engineering / Machine Learning, 2019
 * **University of Chinese Academy of Sciences**, Beijing, China
-  * **M.Sc.** Geographic Information Systems, 2017
+  * **M.Sc.** Geographic Information Systems / Remote Sensing, 2017
 * **Wuhan University**, Wuhan, China
   * **B.Eng.** Remote Sensing, 2014
 
