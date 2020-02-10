@@ -4,8 +4,8 @@
 # Education
 * **University of Wisconsin – Madison**, Madison, WI
   * **Ph.D.** Geography / Remote Sensing & Geographic Information Science, 202x
-    * **Doctoral Minor** Electrical Engineering / Machine Learning
-  * **M.Sc.** Electrical Engineering / Machine Learning, 2019
+    * **Doctoral Minor** Electrical Engineering / Signal Processing & Machine Learning
+  * **M.Sc.** Electrical Engineering / Signal Processing & Machine Learning, 2019
   * **Research**: machine learning and computer vision for geospatial image recognition with applications in disaster resilience
   * **Advisor**: Prof. [Qunying Huang](https://geography.wisc.edu/profile.php?p=111)
 * **University of Chinese Academy of Sciences**, Beijing, China

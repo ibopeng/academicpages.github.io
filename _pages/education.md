@@ -9,9 +9,9 @@ author_profile: true
 
 * **University of Wisconsin – Madison**, Madison, WI, USA<br>
   Department of Geography, Department of Electrical & Computer Engineering<br>
-  * **Doctor of Philosophy** in Geography / Geographic Information Science, 202x<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Doctoral Minor** in Electrical Engineering / Machine Learning<br>
-  * **Master of Science** in Electrical Engineering / Machine Learning, 2019<br>
+  * **Doctor of Philosophy** in Geography / Remote Sensing & Geographic Information Science, 202x<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Doctoral Minor** in Electrical Engineering / Signal Processing & Machine Learning<br>
+  * **Master of Science** in Electrical Engineering / Signal Processing & Machine Learning, 2019<br>
   * **Research**: Machine learning and computer vision for geospatial image recognition with applications in disaster resilience<br>
   * **Advisor**: Prof. [Qunying Huang](https://geography.wisc.edu/profile.php?p=111)
 
