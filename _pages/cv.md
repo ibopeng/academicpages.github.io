@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Also available as a [pdf](/files/cv_bpeng.pdf). (last updated January 2020)
+Last updated January 2020. (also available as a [pdf](/files/cv_bpeng.pdf)). 
 
 # Education
 * **University of Wisconsin – Madison**, Madison, WI
