@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student and research assistant in [Geographic Information Science (GIScience)](https://geography.wisc.edu/) with Minor in [ECE/Machine Learning](https://www.engr.wisc.edu/department/electrical-computer-engineering/research-in-electric-computer-engineering/machine-learning/) at University of Wisconsin - Madison, working with Prof. [Qunying Huang](https://geography.wisc.edu/profile.php?p=111).
+I am a Geography Ph.D. student in Remote Sensing & Geographic Information Science (GIScience) with minor in [Machine Learning](https://www.engr.wisc.edu/department/electrical-computer-engineering/research-in-electric-computer-engineering/machine-learning/) at University of Wisconsin - Madison, working with Prof. [Qunying Huang](https://geography.wisc.edu/profile.php?p=111).
 
 Previously, I was a research assistant at National Engineering Laboratory for Satellite Remote Sensing Applications (NELRS), Institute of Remote Sensing and Digital Earth (now as [Aerospace Information Research Institute](http://english.aircas.cn/)), Chinese Academy of Sciences. I received the 2nd M.Sc. in [ECE/Machine Learning](https://www.engr.wisc.edu/department/electrical-computer-engineering/research-in-electric-computer-engineering/machine-learning/) from UW-Madison (2019), the 1st M.Sc. in GIScience/Remote Sensing from University of Chinese Academy of Sciences (2017) (advisor: Prof. [Qingxi Tong](http://hylab.radi.ac.cn/esite/a/Staff/Academician/2015/1206/359.html), Prof. [Lifu Zhang](http://hylab.radi.ac.cn/esite/a/Staff/Professor/2017/0531/360.html)), and the B.Eng. in [Remote Sensing](http://rsgis.whu.edu.cn/) from Wuhan University (2014).
 
