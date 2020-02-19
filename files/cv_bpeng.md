@@ -6,7 +6,7 @@
   * **Ph.D.** Geography / Remote Sensing & Geographic Information Science, 202x
     * **Doctoral Minor** Electrical Engineering / Machine Learning
   * **M.Sc.** Electrical Engineering / Machine Learning, 2019
-  * **Research**: machine learning and computer vision for geospatial image recognition with applications in disaster resilience
+  * **Research**: Self-/Un-supervised machine learning and computer vision for geospatial image recognition
   * **Advisor**: Prof. [Qunying Huang](https://geography.wisc.edu/profile.php?p=111)
 * **University of Chinese Academy of Sciences**, Beijing, China
   * **M.Sc.** Geographic Information Systems / Remote Sensing, 2017
