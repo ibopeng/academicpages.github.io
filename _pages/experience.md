@@ -17,12 +17,3 @@ author_profile: true
   *Research Assistant*, Sept. 2014 - June 2017<br>
   *Funded by National Natural Science Foundation of China (NSFC)*
   * Research in real-time hyperspectral image and signal anomaly detection
-
-* **School of Remote Sensing and Information Engineering, Wuhan University**, Wuhan, China<br>
-  *Undergraduate Research Assistant*, Sept. 2013 – June 2014<br>
-  * Developed 3D target positioning algorithms based on multi-view imaging
-
-* **School of Remote Sensing and Information Engineering, Wuhan University**, Wuhan, China<br>
-  *Summer Research Intern*, June 2012 – Aug. 2012<br>
-  * Worked on camera calibration for 3D computer vision
-  

@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated January 2020. (also available as a [pdf](/files/cv_bpeng.pdf)). 
-
 # Education
 * **University of Wisconsin – Madison**, Madison, WI
   * **Ph.D.** Geography / Remote Sensing & Geographic Information Science, 202x
-    * **Doctoral Minor** Electrical Engineering / Machine Learning
   * **M.Sc.** Electrical Engineering / Machine Learning, 2019
+  * **Research**: Self-/Un-supervised machine learning and computer vision for geospatial image recognition
+  * **Advisor**: Prof. [Qunying Huang](https://geography.wisc.edu/profile.php?p=111)
 * **University of Chinese Academy of Sciences**, Beijing, China
-  * **M.Sc.** Geographic Information Systems / Remote Sensing, 2017
+  * **M.Sc.** Cartography & Geographic Information System / Remote Sensing, 2017
+  * **Thesis**: Real-time Causal Progressive Hyperspectral Anomaly Detection based on Cholesky Decomposition
+  * **Advisor**: Prof. [Qingxi Tong](http://hylab.radi.ac.cn/esite/a/Staff/Academician/2015/1206/359.html), Prof. [Lifu Zhang](http://hylab.radi.ac.cn/esite/a/Staff/Professor/2017/0531/360.html)
 * **Wuhan University**, Wuhan, China
   * **B.Eng.** Remote Sensing, 2014
 
@@ -33,14 +34,6 @@ Last updated January 2020. (also available as a [pdf](/files/cv_bpeng.pdf)).
   *Funded by National Natural Science Foundation of China (NSFC)*
   * Research in real-time hyperspectral image and signal anomaly detection
 
-* **School of Remote Sensing and Information Engineering, Wuhan University**, Wuhan, China<br>
-  *Undergraduate Research Assistant*, Sept. 2013 – June 2014<br>
-  * Developed 3D target positioning algorithms based on multi-view imaging
-
-* **School of Remote Sensing and Information Engineering, Wuhan University**, Wuhan, China<br>
-  *Summer Research Intern*, June 2012 – Aug. 2012<br>
-  * Worked on camera calibration for 3D computer vision
-  
 # Selected Publications
 (*<u>Underlined names</u> are research advisors.)
 * **Peng, B.**, Meng, Z., <u>Huang, Q.</u>, & Wang, C. (2019). Patch Similarity Convolutional Neural Network for Urban Flood Extent Mapping Using Bi-Temporal Satellite Multispectral Imagery. *Remote Sensing*, 11(21), 2492. [DOI: 10.3390/rs11212492](https://doi.org/10.3390/rs11212492)
