@@ -1,11 +1,16 @@
 ---
 layout: archive
-title: "Selected Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
+
+# Research Interests
+Geospatial artificial intelligence (GeoAI), machine learning, deep learning, computer vision, disaster resilience
+
+# Selected Publications
 
 (*<u>Underlined names</u> are research advisors.)<br>
 * **Patch Similarity Convolutional Neural Network for Urban Flood Extent Mapping Using Bi-Temporal Satellite Multispectral Imagery**<br>

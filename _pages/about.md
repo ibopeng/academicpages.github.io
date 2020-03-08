@@ -12,8 +12,6 @@ Bo is a Geography Ph.D. student in Remote Sensing & Geographic Information Scien
 
 Previously, he was a research assistant at National Engineering Laboratory for Satellite Remote Sensing Applications (NELRS), Institute of Remote Sensing and Digital Earth (now as [Aerospace Information Research Institute](http://english.aircas.cn/)), Chinese Academy of Sciences. He received the 2nd M.Sc. in [ECE/Machine Learning](https://www.engr.wisc.edu/department/electrical-computer-engineering/research-in-electric-computer-engineering/machine-learning/) from UW-Madison (2019), the 1st M.Sc. in GIScience/Remote Sensing from University of Chinese Academy of Sciences (2017) (advisor: Prof. [Qingxi Tong](http://hylab.radi.ac.cn/esite/a/Staff/Academician/2015/1206/359.html), Prof. [Lifu Zhang](http://hylab.radi.ac.cn/esite/a/Staff/Professor/2017/0531/360.html)), and the B.Eng. in [Remote Sensing](http://rsgis.whu.edu.cn/) from Wuhan University (2014).
 
-# Research Interests
-Geospatial artificial intelligence (GeoAI), machine learning, deep learning, computer vision, disaster resilience
 
 # Recent News
 * (01/2020) Senior Teaching Assistant for CS/ECE 532 Matrix Methods in Machine Learning, Spring 2020.
