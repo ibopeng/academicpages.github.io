@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Research Interests
+
 Geospatial artificial intelligence (GeoAI), machine learning, deep learning, computer vision, disaster resilience
 
 # Selected Publications
