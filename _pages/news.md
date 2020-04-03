@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 # 2020
-* (03/2020) Received the William A. Fischer Memorial Scholarship from American Society for Photogrammetry and Remote Sensing (ASPRS)
+* (03/2020) Received the William A. Fischer Memorial Scholarship from American Society for Photogrammetry and Remote Sensing (ASPRS).
 * (01/2020) Senior Teaching Assistant for CS/ECE 532 Matrix Methods in Machine Learning, Spring 2020.
 
 # 2019
