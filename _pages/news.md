@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 # 2020
+* (04/2020) Received the Trewartha Graduate Research Award from Geography Department at UW-Madison.
+* (03/2020) Received the Doctoral Minor in [Machine Learning](https://www.engr.wisc.edu/department/electrical-computer-engineering/research-in-electric-computer-engineering/machine-learning/) from ECE at UW-Madison.
 * (03/2020) Received the William A. Fischer Memorial Scholarship from American Society for Photogrammetry and Remote Sensing (ASPRS).
 * (01/2020) Senior Teaching Assistant for CS/ECE 532 Matrix Methods in Machine Learning, Spring 2020.
 
